@@ -67,7 +67,7 @@ live_loop :wobble_bass, sync: :bd, auto_cue: false do
       sleep sl
       control c, note: note
     end
-    sleep sl #mit synth :zawa wird das Sleep nicht ben?tigt
+    sleep sl #mit synth :zawa wird das Sleep nicht benötigt
   end
 end
 
